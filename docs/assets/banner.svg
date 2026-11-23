@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1440" height="620" viewBox="0 0 1440 620" role="img" aria-labelledby="title desc">
-<title id="title">CHPlayer — engenharia de uma experiência multiplataforma</title><desc id="desc">Apresentação do projeto com Android, desktop e TV, catálogo, Cast e salas privadas.</desc>
+<title id="title">CHPlayer — estudo de desenvolvimento com inteligência artificial</title><desc id="desc">Apresentação do projeto com Android, desktop e TV, catálogo, Cast e salas privadas.</desc>
 <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0A0C1B"/><stop offset="1" stop-color="#191533"/></linearGradient><linearGradient id="accent" x2="1" y2="1"><stop stop-color="#A093FF"/><stop offset="1" stop-color="#6257F4"/></linearGradient><radialGradient id="glow"><stop stop-color="#7865FC" stop-opacity=".3"/><stop offset="1" stop-color="#7865FC" stop-opacity="0"/></radialGradient></defs>
 <rect width="1440" height="620" rx="28" fill="url(#bg)"/><circle cx="1120" cy="220" r="370" fill="url(#glow)"/>
-<g font-family="Arial,Helvetica,sans-serif"><rect x="70" y="65" width="148" height="30" rx="15" fill="#27233E"/><text x="88" y="85" font-size="12" font-weight="700" letter-spacing="2" fill="#B8ACFF">ESTUDO DE CASO</text>
+<g font-family="Arial,Helvetica,sans-serif"><rect x="70" y="65" width="148" height="30" rx="15" fill="#27233E"/><text x="88" y="85" font-size="12" font-weight="700" letter-spacing="2" fill="#B8ACFF">ESTUDO COM IA</text>
 <text x="68" y="195" fill="#FAFAFF" font-size="84" font-weight="700" letter-spacing="-4">CHPlayer<tspan fill="#9F90FF">.</tspan></text>
 <text x="72" y="250" fill="#D8D8E9" font-size="27">Uma experiência. Diferentes dispositivos.</text>
 <text x="72" y="293" fill="#9193AE" font-size="18">Reprodução · Google Cast · Salas privadas · Atualizações</text>
 <g font-size="14" fill="#C5C4DA"><rect x="72" y="339" width="130" height="38" rx="10" fill="#242338"/><text x="91" y="363">React Native</text><rect x="214" y="339" width="108" height="38" rx="10" fill="#242338"/><text x="237" y="363">Electron</text><rect x="334" y="339" width="122" height="38" rx="10" fill="#242338"/><text x="352" y="363">Supabase</text></g>
-<path d="M72 460h580" stroke="#302D47"/><text x="72" y="497" fill="#F4F2FF" font-size="19" font-weight="700">ChiquettoDev</text><text x="72" y="529" fill="#8D8BA5" font-size="15">Arquitetura, integrações e decisões de engenharia</text>
+<path d="M72 460h580" stroke="#302D47"/><text x="72" y="497" fill="#F4F2FF" font-size="19" font-weight="700">ChiquettoDev</text><text x="72" y="529" fill="#8D8BA5" font-size="15">Aprendizado prático com ChatGPT / Codex</text>
 <rect x="760" y="112" width="580" height="333" rx="19" fill="#111322" stroke="#454059" stroke-width="2"/><rect x="775" y="127" width="550" height="303" rx="10" fill="#1D1B31"/>
 <rect x="796" y="148" width="508" height="27" rx="6" fill="#27243E"/><circle cx="811" cy="161" r="4" fill="#9F90FF"/><path d="M827 161h74m220 0h25m20 0h25m20 0h25" stroke="#72708B" stroke-width="5" stroke-linecap="round"/>
 <rect x="796" y="193" width="508" height="128" rx="12" fill="#30294D"/><circle cx="1050" cy="257" r="28" fill="url(#accent)"/><path d="m1044 243 21 14-21 14Z" fill="#FFF"/>
