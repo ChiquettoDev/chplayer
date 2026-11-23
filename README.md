@@ -2,9 +2,22 @@
 
 # CHPlayer
 
-**Aplicativo de mídia multiplataforma com reprodução, controle remoto pela TV, salas privadas e distribuição de atualizações.**
+**Estudo prático de desenvolvimento com inteligência artificial, usando um aplicativo de mídia multiplataforma como projeto de aprendizado.**
 
-Projeto de portfólio de [João Chiquetto / ChiquettoDev](https://github.com/ChiquettoDev). Este repositório apresenta a arquitetura, decisões técnicas e módulos selecionados do produto. Desenvolvimento realizado com apoio de ferramentas de IA; o escopo público e as limitações estão descritos abaixo.
+Sou [João Chiquetto / ChiquettoDev](https://github.com/ChiquettoDev). Precisei de bastante ajuda do **ChatGPT/Codex** para desenvolver o CHPlayer. A maior parte da implementação, das correções, dos testes automatizados e desta documentação foi produzida ou ajustada pelo assistente de IA a partir das minhas solicitações. Meu objetivo principal foi estudar como usar essas ferramentas e treinar minhas habilidades para orientar, testar e melhorar um projeto com elas.
+
+## Minha participação e o papel da IA
+
+| Área | Como aconteceu |
+|---|---|
+| Objetivos e funcionalidades | Defini o que queria construir, as plataformas e as prioridades, refinando os pedidos durante o projeto. |
+| Testes de uso e feedback | Testei versões, enviei capturas e relatei problemas de interface, reprodução, catálogo e descoberta de TVs. Isso não significa que todos os recursos tenham sido validados em todos os aparelhos. |
+| Implementação e investigação técnica | O ChatGPT/Codex escreveu e alterou grande parte do código, pesquisou soluções, utilizou ferramentas de análise e executou compilações e verificações. |
+| Correções guiadas pelos meus relatos | Pedi ajustes como remover controles duplicados, adequar as atualizações a cada plataforma e corrigir a entrada que confundia Kenan & Kel com outra produção. As respectivas mudanças técnicas foram implementadas com a IA. |
+| Edições manuais no código | Também editei partes do código em outro computador. Ainda não tenho um registro consolidado dos arquivos e trechos que alterei, então não atribuo aqui funções específicas à minha edição manual. |
+| Documentação e apresentação | Preparadas com o assistente de IA, seguindo meu pedido de explicitar essa participação e as limitações do projeto. |
+
+Este portfólio mostra um processo de aprendizado com IA e o resultado dessa colaboração. **Não representa uma aplicação programada integralmente por mim, nem comprova domínio independente de todas as tecnologias abaixo.** O código serve para estudar as soluções e acompanhar minha evolução.
 
 `React Native` · `Expo` · `Kotlin` · `Google Cast` · `Electron` · `webOS` · `BrightScript` · `Deno` · `PostgreSQL / Supabase`
 
@@ -12,7 +25,7 @@ Projeto de portfólio de [João Chiquetto / ChiquettoDev](https://github.com/Chi
 
 Organizar navegação e reprodução de mídia em diferentes tipos de dispositivo, mantendo preferências, acesso e distribuição coerentes. Um celular precisa de interação por toque e controle Cast; um computador exige janela responsiva e teclado; uma TV precisa de foco e navegação por controle remoto.
 
-## Funcionalidades desenvolvidas
+## Funcionalidades trabalhadas com a IA
 
 - Catálogo com busca, favoritos, fontes alternativas, filmes e episódios por temporada.
 - Reprodução local e recuperação do progresso.
@@ -77,9 +90,11 @@ npm run check:server
 
 São **13 testes automatizados** de parsers e conversão de mídia Cast. Eles usam dados sintéticos e não acessam catálogos, contas ou dispositivos reais. A integração contínua executa os mesmos comandos.
 
-## Aprendizados
+## O que estou aprendendo
 
-Separar transporte, interpretação de dados e interface; tratar variações de formato sem quebrar URLs; sincronizar players sem reaplicar eventos antigos; preservar limites de acesso no servidor; adaptar interação a toque, mouse e controle remoto; e distribuir versões diferentes por plataforma.
+Meu foco foi transformar ideias em pedidos mais claros para a IA, dividir o trabalho em etapas, testar o resultado e descrever os problemas para orientar novas tentativas. Também estou estudando o código gerado e os conceitos de parsers, reprodução, rede, persistência, servidor e distribuição por plataforma.
+
+As explicações de arquitetura e decisões técnicas registram soluções produzidas durante esse processo com o assistente. São material de estudo; não uma afirmação de que eu já conseguiria implementar sozinho todos esses componentes.
 
 ## Escopo, autoria e referências
 
