@@ -1,0 +1,14 @@
+[
+  {
+    "id": "pluto",
+    "name": "Pluto TV",
+    "url": "https://pluto.tv/br/",
+    "description": "Acesso ao player oficial."
+  },
+  {
+    "id": "itau-cultural",
+    "name": "Itaú Cultural Play",
+    "url": "https://www.itauculturalplay.com.br/",
+    "description": "Acesso ao player oficial."
+  }
+]
