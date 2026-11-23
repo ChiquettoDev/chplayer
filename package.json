@@ -1,0 +1,13 @@
+{
+  "name": "chplayer-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Estudo de caso e módulos selecionados do CHPlayer",
+  "scripts": {
+    "test": "node --test src/android/*.test.cjs",
+    "check:server": "node --check src/server/index.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

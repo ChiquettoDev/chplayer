@@ -1,0 +1,15 @@
+node_modules/
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+*.password
+*.apk
+*.aab
+*.ipk
+*.asar
+*.bin
+.DS_Store
+build/
+.gradle/
