@@ -1,4 +1,6 @@
-# Decisões e desafios de engenharia
+# Decisões e desafios estudados com a IA
+
+Este documento descreve soluções propostas e implementadas durante o trabalho com o ChatGPT/Codex. Não é um relato de que o autor tenha projetado ou programado cada solução de forma independente. Seu papel e as edições manuais ainda sem identificação estão detalhados no README.
 
 ## Um catálogo precisa ser interpretado antes de ser exibido
 
@@ -22,4 +24,6 @@ As versões são comparadas numericamente dentro de cada plataforma. A página r
 
 ## IA como ferramenta, sem confundir o escopo
 
-O desenvolvimento e a documentação tiveram apoio de IA. O estudo de artefatos usou REA; partes da interface-base existiam como JavaScript compilado. O portfólio distingue integrações/adaptações próprias, bibliotecas e referências, e não atribui todo o produto do zero a uma implementação manual individual.
+O ChatGPT/Codex foi central no projeto: produziu e ajustou grande parte do código, investigou problemas, executou ferramentas e preparou a documentação. O autor definiu pedidos e prioridades, testou versões e descreveu falhas para orientar as correções. Também relata edições manuais feitas em outro computador, sem um inventário que permita atribuir trechos específicos.
+
+O objetivo principal foi praticar o uso de IA no desenvolvimento e estudar seus resultados. O estudo de artefatos usou REA; partes da interface-base existiam como JavaScript compilado. Bibliotecas e referências não são apresentadas como autoria própria, e o resultado não é uma comprovação de domínio independente de toda a stack.
